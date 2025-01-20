@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data Analytics / Data Science  
   
 
-- 🌱 I’m currently learning Python , SQL and Power BI   
+- 🌱 I’m currently learning Python , C# and SQL
   
 
 <br/>  
